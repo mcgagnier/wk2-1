@@ -1,3 +1,27 @@
 * {
     box-sizing: border-box;
 }
+.header-contain{
+    margin: 50px 130px;
+}
+.header-text {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+
+}
+.header-bold {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+.header-bold-right {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
